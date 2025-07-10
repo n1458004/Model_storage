@@ -28,4 +28,4 @@
 13. Снимите игру с паузы
 14. [Перезайдите в игровой мир или перезагрузите модель вручную](https://github.com/n1458004/Model_storage/edit/main/README.md#Как%20перезагрузить%20модель).
 ## Доступные модели:
-1. [Модель для облегчения призыва белой аргемии](https://github.com/n1458004/Model_storage/tree/main/WhiteArgem)
+1. [Модель для облегчения призыва белой аргемии](https://github.com/n1458004/Model_storage/blob/main/Models/WhiteArgem.zip)
